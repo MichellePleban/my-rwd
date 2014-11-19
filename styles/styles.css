@@ -1,0 +1,41 @@
+/**
+*===============================================================
+* styles.css -- Global styles for the MyRWD website
+*===============================================================
+*
+* Created November 12, 2014
+*
+* Authored by Michelle Pleban
+*
+*/
+
+/*----- Basic Styling ----- */
+
+body{ background-color: lightblue;}
+
+#page-wrapper{
+  width:768px;
+  background-color:white;
+  margin: 0 auto;}
+  
+#content{
+  background-color:#f7f2da;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  
+}
+
+#navbar {
+  background-color:gray;
+  padding: 0;
+  margin: 0;
+}
+
+#navbar ul {
+  padding: 3px 10px 3px 10px;
+  list-style-type: none;
+}
